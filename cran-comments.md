@@ -1,5 +1,5 @@
 ## Resubmission of HDShOP package
-This is a resubmission of an existing package with added citation info and slight updates for compatibility reasons.
+This is a resubmission of an existing package with bug fixes.
 
 ## Test environments
 * local Ubuntu 24.04.3 LTS, R-release

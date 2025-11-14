@@ -1,6 +1,6 @@
 Package: HDShOP
 Title: High-Dimensional Shrinkage Optimal Portfolios
-Version: 0.1.6
+Version: 0.1.7
 Authors@R: 
     c(person(given = "Taras", 
              family = "Bodnar", 
@@ -56,5 +56,5 @@ Suggests:
     corpcor,
     waldo
 RdMacros: Rdpack
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 Config/testthat/edition: 3
